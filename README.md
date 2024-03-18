@@ -12,10 +12,10 @@ Follow these steps to set up your environment for working with TensorFlow:
 
 1. **Install Python:** Visit the [Python official website](https://www.python.org/downloads/) and download the latest version of Python for your operating system. Follow the installation instructions provided on the website.
 
-2. **Check Python Installation:** After installing Python, open your terminal or command prompt and run the following command to ensure Python is installed correctly: python --version
+2. **Check Python Installation:** After installing Python, open your terminal or command prompt and run the following command to ensure Python is installed correctly: `python --version`.
 
 3. **Create a Python File:** Open your preferred code editor (e.g., Visual Studio Code) and create a new Python file. You can name it whatever you like, for example, `myfile.py`.
 
-4. **Install TensorFlow:** In the terminal or command prompt, navigate to the directory where your Python file is located. Then, run the following command to install TensorFlow using pip: pip install tensorflow
+4. **Install TensorFlow:** In the terminal or command prompt, navigate to the directory where your Python file is located. Then, run the following command to install TensorFlow using pip: `pip install tensorflow`.
 
 These steps will ensure that you have Python installed, set up a Python file for your project, and install TensorFlow for working with AI tasks. You're now ready to start coding and experimenting with TensorFlow!
