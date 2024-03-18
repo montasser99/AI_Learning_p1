@@ -23,5 +23,3 @@ Follow these steps to set up your environment for working with TensorFlow using 
 6. **Install TensorFlow**: If you're using a new environment, you may need to install TensorFlow. You can install it by opening a new notebook cell and running the command: 
    ```python
    !pip install tensorflow
-
-Copy and paste this content into your README.md file, and it should provide clear instructions for setting up the environment and getting started with TensorFlow using Jupyter and Anaconda. Let me know if you need further assistance!
